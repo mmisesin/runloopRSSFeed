@@ -1,0 +1,6 @@
+framework module Pods_RunloopRssFeed {
+  umbrella header "Pods-RunloopRssFeed-umbrella.h"
+
+  export *
+  module * { export * }
+}
